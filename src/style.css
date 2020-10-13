@@ -1,0 +1,19 @@
+img{
+    height: 400px;
+    width: 400px;
+}
+#root {
+    width: 450px;
+    margin: auto;
+    background-color: blanchedalmond;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    padding: 40px 55px 45px 55px;
+    border-radius: 15px;
+    transition: all .3s;
+  }
+  body{
+      background-image: url("./fleur.jpg");
+  }
+  h2{
+      color: cornflowerblue;
+  }
